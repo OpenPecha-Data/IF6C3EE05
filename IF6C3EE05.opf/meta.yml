@@ -1,0 +1,27 @@
+id: IF6C3EE05
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-26T02:56:28+00:00'
+last_modified: '2022-06-07T21:51:18.107185+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W30290
+  title: སྙན་ངག་མེ་ལོང་གི་འགྲེལ་པ་དབྱངས་ཅན་རོལ་མཚོ
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    B61C:
+      image_group_id: I6037
+      title: ''
+      total_pages: 462
+      order: 1
+      base_file: B61C.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
